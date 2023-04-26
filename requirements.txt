@@ -1,0 +1,7 @@
+discord
+datetime
+asyncio
+requests
+pyfade
+youtube_dl
+psutil
